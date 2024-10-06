@@ -25,4 +25,9 @@
 
     <dimen name="margin_all_side">20dp</dimen>
 
+    <!--ImageViewSize-->
+    <dimen name="imageViewWidth">250dp</dimen>
+    <dimen name="imageViewHeight">250dp</dimen>
+    <dimen name="_100dp">100dp</dimen>
+
 </resources>

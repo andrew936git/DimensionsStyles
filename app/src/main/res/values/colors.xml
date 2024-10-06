@@ -8,5 +8,6 @@
     <color name="green">#008000</color>
     <color name="sky_blue">#87CEEB</color>
     <color name="blue">#0000FF</color>
+    <color name="dark_blue">#00035B</color>
     <color name="violet">#EE82EE</color>
 </resources>

@@ -2,4 +2,7 @@
     <string name="app_name">DimensionsStyles</string>
     <string name="editTextHint">Введите текст</string>
     <string name="buttonText">Кнопка</string>
+    <string name="textViewText">Галоши утеплённые эва</string>
+    <string name="descriptionText">Современным решением традиционной обуви являются галоши утеплённые, изготовленные из материала ЭВА с подкладкой в виде вкладного чулка из нетканного иглопробивного ворсового полотна, предназначены для защиты от воды и грязи. Материал: этилвинилацетата (ЭВА), обладает антибактериальными и противогрибковыми свойствами, малым весом, устойчив к истиранию.</string>
+    <string name="buyButtonText">Купить</string>
 </resources>
