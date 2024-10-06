@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- TextSizes -->
+    <dimen name="title_text_size">36sp</dimen>
+    <dimen name="subtitle_text_size">24sp</dimen>
+    <dimen name="ordinary_text_size">16sp</dimen>
+
+    <!-- VerticalMargins -->
+    <dimen name="margin_top_standard">16dp</dimen>
+    <dimen name="margin_top_small">8dp</dimen>
+    <dimen name="margin_top_large">30dp</dimen>
+
+    <dimen name="margin_bottom_standard">16dp</dimen>
+    <dimen name="margin_bottom_small">6dp</dimen>
+    <dimen name="margin_bottom_large">36dp</dimen>
+
+    <!-- HorizontalMargins-->
+    <dimen name="margin_start_standard">16dp</dimen>
+    <dimen name="margin_start_small">6dp</dimen>
+    <dimen name="margin_start_large">406dp</dimen>
+
+    <dimen name="margin_end_standard">16dp</dimen>
+    <dimen name="margin_end_small">6dp</dimen>
+    <dimen name="margin_end_large">406dp</dimen>
+
+    <dimen name="margin_all_side">20dp</dimen>
+
+</resources>

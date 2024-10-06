@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">DimensionsStyles</string>
+    <string name="editTextHint">Введите текст</string>
+    <string name="buttonText">Кнопка</string>
+</resources>
